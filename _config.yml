@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+title: WEBDEV_KHS
+email: daseqwczx@naver.com
+url: https://github.com/Micoko
+description: "웹 개발자 김홍섭의 포트폴리오 페이지 입니다."
+keywords: "developer, web, portfolio"
+skills: "WEB STANDARDS - SPRING BOOT - ORACLE DB"
+meta_author: 김 홍섭
 
 # Google webmaster tools
 google_verify:
@@ -25,10 +25,10 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: F3EEEA
+  primary-rgb: EBE3D5
+  secondary: B0A695
+  secondary-dark: 776B5D #233140
 
 # Footer settings
 footer:
